@@ -13,14 +13,15 @@
 
 ## 2. 사용 기술
 #### `Back-end`
-  - Java 17
-  - Spring Boot 5.3
-  - Gradle
-  - Spring Data JPA
-  - QueryDSL
-  - H2
-  - MySQL 8.0.3
-  - Spring Security
+[![Java](https://img.shields.io/badge/Java-17-navy)]()
+[![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7.3-green)]()
+[![SpringSecurity](https://img.shields.io/badge/SpringSecurity-5.7.3-green)]()
+[![SpringJPA](https://img.shields.io/badge/SpringJPA-2.7.2-green)]()
+[![Querydsl](https://img.shields.io/badge/Querydsl-5.0.0-blue)]()
+[![JWT](https://img.shields.io/badge/JWT-3.19.2-white)]()
+[![Swagger](https://img.shields.io/badge/Swagger-1.5.2-olive)]()
+[![MySQL](https://img.shields.io/badge/MySQL-8.0.3-orange)]()
+[![AWS](https://img.shields.io/badge/AWS-2.16.65-yellow)]()
 
 </br>
 
