@@ -26,7 +26,7 @@
 </br>
 
 ## 3. ERD 설계
-[ERD 링크](https://www.erdcloud.com/p/vN9YZs4STCaQ8nkqK)
+![ERD](https://user-images.githubusercontent.com/94332594/197386782-0edfdefa-1892-4f44-bed1-6b31329af18d.png)
 
 </br>
 
