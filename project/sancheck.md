@@ -1,5 +1,5 @@
-# SanCheck
->반려견 산책 모임 서비스
+# :dog: SanCheck
+>:dog2: 반려견 산책 모임 서비스
 - https://sancheck.vercel.app/
 - https://github.com/project-sancheck/sancheck
 
