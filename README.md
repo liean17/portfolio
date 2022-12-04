@@ -36,10 +36,7 @@ Java, Spring-boot 중심으로 Web 개발을 공부한 백엔드 개발자 강�
 >[프로젝트 상세 설명 주소](https://github.com/liean17/portfolio/blob/main/project/sancheck.md)
 >
 
----
-
-## :pushpin: Projects
-### 2. [MyRefrigerator]
+### 2. MyRefrigerator
 >냉장고 식품 관리 서비스 (개인 프로젝트)  
 >개발 기간: 2022.11.3 ~ 현재 
 >  
